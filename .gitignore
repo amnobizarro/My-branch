@@ -1,0 +1,11 @@
+.DS_Store
+.vscode
+
+node_modules
+npm-debug.log
+dist
+
+electron-builder.env
+certs.p12
+*.provisionprofile
+local_modules/mymonero_libapp_js
